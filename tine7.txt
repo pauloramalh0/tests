@@ -1,4 +1,4 @@
-<feed>
+<?xml version="1.0" encoding="utf-8"?><feed>
 	<id>84380c4b-0dbc-4402-9725-fba9b8c834a1</id>
 	<title />
 	<updated>2019-06-18T14:46:37Z</updated>
